@@ -1,0 +1,6 @@
+[submodule "HomeAccel.ahk"]
+	path = HomeAccel.ahk
+	url = https://github.com/okayson/HomeAccel.ahk
+[submodule "SandC.ahk"]
+	path = SandC.ahk
+	url = https://github.com/okayson/SandC.ahk
