@@ -1,6 +1,0 @@
-# AutoHotKey Compiler
-AHK="/C/Program Files/AutoHotkey/Compiler/Ahk2Exe.exe"
-
-# %USERPROFILE%
-USER_PROFILE="/C/Users/me"
-
